@@ -1,0 +1,6 @@
+tasks:   # also works with .ipynb etc
+  - source: ex0-nb.py
+    name: Example 0 Notebook
+    product:
+      nb: ex0-nb.ipynb
+#      data: output/output-report.pdf
